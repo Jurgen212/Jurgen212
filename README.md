@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**Jurgen212/Jurgen212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Console.log("Hello");
+## System.out.println("welcome to the profile of Jurgen Sanclemente");
 
 - 🔭 Currently a student in systems engineering...
 - 🌱 I’m currently learning ...
@@ -14,5 +10,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to program in txt ...
 
 ![giphy](https://user-images.githubusercontent.com/82098469/199127688-b4303c9f-d186-4aa6-8446-a07221548cec.gif)
+<!--
+**Jurgen212/Jurgen212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 
 -->
