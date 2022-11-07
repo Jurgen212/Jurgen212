@@ -1,5 +1,4 @@
 # Console.log("Hello");
-## System.out.println("welcome to the profile of Jurgen Sanclemente");
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82098469/199127688-b4303c9f-d186-4aa6-8446-a07221548cec.gif" />
