@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I like to program in txt 
 
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://user-images.githubusercontent.com/82098469/199127688-b4303c9f-d186-4aa6-8446-a07221548cec.gif" />
 </p>
 
 
