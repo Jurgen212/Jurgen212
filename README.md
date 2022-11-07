@@ -10,6 +10,10 @@
 - 📫 How to reach me: jurgensanclemente@gmail.com 
 - ⚡ Fun fact: I like to program in txt 
 
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+
 
 <!--
 **Jurgen212/Jurgen212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
