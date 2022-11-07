@@ -1,18 +1,18 @@
 # Console.log("Hello");
 ## System.out.println("welcome to the profile of Jurgen Sanclemente");
 
-![giphy](https://user-images.githubusercontent.com/82098469/199127688-b4303c9f-d186-4aa6-8446-a07221548cec.gif)
-
-- 🔭 Currently a student in systems engineering
-- 👯 I am currently improving my skills in web development 
-- 🤔 Taste for the Backend but passion for the FrontEnd 
-- 💬 I have also handled Java to solve different logical problems 
-- 📫 How to reach me: jurgensanclemente@gmail.com 
-- ⚡ Fun fact: I like to program in txt 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82098469/199127688-b4303c9f-d186-4aa6-8446-a07221548cec.gif" />
 </p>
+
+
+
+- Currently a student in systems engineering
+- I am currently improving my skills in web development 
+- Taste for the Backend but passion for the FrontEnd 
+- I have also handled Java to solve different logical problems 
+- How to reach me: jurgensanclemente@gmail.com 
+- Fun fact: I like to program in txt 
 
 
 <!--
