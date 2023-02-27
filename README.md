@@ -1,7 +1,7 @@
 # Jurgen Sanclemente
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82098469/199127688-b4303c9f-d186-4aa6-8446-a07221548cec.gif" />
+  <img src="https://www.gifss.com/profesiones/informaticos/informatico-11.gif" />
 </p>
 
 
