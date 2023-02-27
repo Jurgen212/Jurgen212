@@ -7,8 +7,7 @@
 
 
 - Currently a student in systems engineering
-- I am currently improving my skills in web development 
-- I have also handled Java to solve different logical problems 
+- Currently improving my skills in web development 
 - How to reach me: jurgensanclemente@gmail.com 
 
 
