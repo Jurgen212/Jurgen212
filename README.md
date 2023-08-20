@@ -8,7 +8,8 @@
 
 - Currently a student in systems engineering
 - Currently improving my skills in web development 
-- How to reach me: jurgensanclemente@gmail.com 
+- How to reach me: jurgensanclemente@gmail.com
+- I have also developed in springboot and node different api's for real work connecting the front with relational databases like postgresql and deploying in different online hosts.
 
 
 <!--
