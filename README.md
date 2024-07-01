@@ -1,4 +1,4 @@
-# <div style="display:flex;flex-direction:row;align-items:end;"><img src="https://raw.githubusercontent.com/Jurgen212/Jurgen212/main/octocat.png" width="100" /> <h1 style="color:white;font-size:20px;">Welcome to Jurgen Sanclemente's profile</h1></div>
+# <div style="display:flex;flex-direction:row;align-items:end;"><img src="https://raw.githubusercontent.com/Jurgen212/Jurgen212/main/octocat.png" width="100" /> <h1 style="color:white;font-size:10px;">Welcome to Jurgen Sanclemente's profile</h1></div>
 
 ![Banner de Jurgen Sanclemente](header.png)
 
