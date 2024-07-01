@@ -74,7 +74,5 @@ Innovative and dynamic software developer with a passion for crafting robust web
 
 ![Jurgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurgen212&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurgen212&layout=donut&theme=dark)](https://github.com/jurgen212/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurgen212&layout=donut&theme=dark)
 </div>
-
-## Best projects
