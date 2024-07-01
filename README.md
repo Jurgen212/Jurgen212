@@ -1,13 +1,9 @@
 # <img src="https://raw.githubusercontent.com/Jurgen212/Jurgen212/main/octocat.png" width="100" /> Welcome to Jurgen Sanclemente's profile
 
 ![Banner de Jurgen Sanclemente](header.png)
-
-<div style="display:flex;flex-direction:row; align-items:center;">
-
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC60uImqYA8qD96p23ucrptA)
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jurgensanclemente/)
-</div>
+
 
 Innovative and dynamic software developer with a passion for crafting robust web solutions.  Three years specializing in web development, I bring a unique blend of technical expertise and leadership skills to any team.
 
