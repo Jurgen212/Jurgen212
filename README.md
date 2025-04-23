@@ -1,5 +1,3 @@
-# <img src="https://raw.githubusercontent.com/Jurgen212/Jurgen212/main/octocat.png" width="100" /> Welcome to Jurgen Sanclemente's profile
-
 ![Banner de Jurgen Sanclemente](https://github.com/user-attachments/assets/c9e47666-9e9a-449b-9f7e-c64baa908da8)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC60uImqYA8qD96p23ucrptA)
